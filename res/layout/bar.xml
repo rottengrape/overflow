@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@id/bar"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#ccc"
+        >
+
+    <Button
+            android:id="@+id/b_previous_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="3dp"
+            android:minHeight="70dp"
+            android:background="@drawable/title_bg_up"
+            android:text="@string/previous_page"
+            android:textColor="#ffff7711"
+            android:visibility="gone">
+    </Button>
+
+    <Button
+            android:id="@+id/b_next_page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:layout_alignParentRight="true"
+            android:minHeight="70dp"
+            android:background="@drawable/title_bg_up"
+            android:textColor="#ffff7711"
+            android:text="@string/next_page">
+    </Button>
+
+
+</RelativeLayout>
+    

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">arch</string>
+    <string name="offline_now">offline now</string>
+    <string name="favorite">favor</string>
+    <string name="loading">loading...</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="update">update</string>
+    <string name="delete_mode">delete mode</string>
+    <string name="view_mode">view mode</string>
+    <string name="previous_page">previous</string>
+    <string name="next_page">next</string>
+    <string name="preference">preference</string>
+    <string name="home_site">home site</string>
+    <string name="watch_question">watch question</string>
+    <string name="release_watch">release watch</string>
+
+    <string-array name="initial_sites">
+
+        <item>api.stackexchange.com</item>
+        <item>api.serverfault.com</item>
+        <item>api.stackapps.com</item>
+        <item>api.unix.com</item>
+    </string-array>
+
+    <string-array name="initial_name">
+        <item>stack overflow</item>
+        <item>server fault</item>
+        <item>stack apps</item>
+        <item>unix and linux</item>
+    </string-array>
+
+
+    <color name="general_text">#ccc</color>
+    <color name="mysite">#ffeeaa33</color>
+    <color name="mysite_count">#ffccaa33</color>
+    <color name="owner">#ff7733ee</color>
+    <color name="selected_site">#ffff0000</color>
+    <color name="question_post">#ff77cc33</color>
+    <color name="question_comment">#ff773377</color>
+    <color name="post_bg">#000007</color>
+    <color name="post_bg_pressed">#171717</color>
+
+
+
+    <item name="tv_owner" type="id">
+    </item>
+    
+    <item name="bar" type="id">
+    </item>
+    
+    <item name="b_cancel" type="id">
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>
